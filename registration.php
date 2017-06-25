@@ -19,7 +19,7 @@
                 }); 
 
             function check_username_ajax(username){
-                $("#user-result").html(); // add image src in () for loading icon
+                $("#user-result").html(' loading...');
                 $.post('username-checker.php', {'username':username}, function(data) {
                 $("#user-result").html(data);
                 });
