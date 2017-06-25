@@ -15,7 +15,7 @@ How to use:
 
 6. Thats all. You are ready to go. If face any problem feel free to contact me.
 
-  -> twitter  - @NitishDiwakar
-  -> facebook - fb.com/NitishDiwakar
+  -> twitter  - @NitishDiwakar <br />
+  -> facebook - fb.com/NitishDiwakar <br />
   
   *** <a href="http://conceptual.co.in/test/register-login/">Demo here</a> ***
