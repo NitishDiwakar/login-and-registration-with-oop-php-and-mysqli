@@ -6,12 +6,13 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
 <div class="container">
 <div class="row" style="margin-top: 4%;">
-<div class="col-md-3"></div>
-<div class="col-md-6 well">
+<div class="col-md-4"></div>
+<div class="col-md-4 well">
 <h1 class="text-center">Register Here</h1>
 	<form action="include/register.php" method="post" name="reg">
 		<div class="form-group">
@@ -20,7 +21,7 @@
 		</div>
 		<div class="form-group">
 		<label>User Name:</label>
-		<input class="form-control" type="text" name="uname" required="" />
+		<input class="form-control" type="text" name="uname" autocomplete="off" required="" />
 		</div>
 		<div class="form-group">
 		<label>Email:</label>
@@ -42,7 +43,7 @@
 		}
 	?>
 </div>
-<div class="col-md-3"></div>
+<div class="col-md-4"></div>
 </div> <!-- End row -->
 </div> <!-- End container -->
 </body>
