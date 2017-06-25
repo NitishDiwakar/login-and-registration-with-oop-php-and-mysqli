@@ -1,7 +1,5 @@
 # login-and-registration-with-oop-php-and-mysqli
-Login and registration with object oriented PHP and mysqli.
-Demo: http://conceptual.co.in/test/register-login/
-<p>test</p>
+Login and registration with object oriented PHP and mysqli. <a href="http://conceptual.co.in/test/register-login/" target="_blank">Demo here</a>
 
 How to use:
 1. For Windows users: Copy all files & folders in 'htdocs' folder.
